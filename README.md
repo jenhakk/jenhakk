@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jenhakk
-- 👀 I’m interested in all kind of programming but I have enjoyed most creating websites. Also testing and creating little projects with Python and Java has been fun!
-- 🌱 I’m currently studying second year of Business Information Technology in Häme University of Applied Sciences.
-- 💞️ I’m looking for a trainee position for summer 2023.
+- 👀 I love all programming but fullstack developer describes me the best. 
+- 🌱 I’m currently studying third year of Business Information Technology in Häme University of Applied Sciences.
+- 💞️ I’m looking for a trainee position for spring of 2023.
 - 📫 How to reach me jenna.hakkarainen@gmail.com
 
 <!---
